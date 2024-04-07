@@ -12,7 +12,9 @@ Let's dive in.
 
 Assuming the API URL to be:
 
+```
 const API_URL = "https://bul-api-url.com/api/graphql";
+```
 
 For queries, I used the following code:
 
