@@ -1,4 +1,5 @@
 # bulGraphQL
+![cq5dam web 1280 1280 (1)](https://github.com/miladamirvafa/bulGraphQL/assets/113239374/df40b215-0b98-4d40-ad73-3f2c2b595e3d)
 # Simple &amp; Fast GraphQL client
 
 Since Next.js introduced the new app router, there have been many problems integrating existing GraphQL clients such as Apollo or Urql with projects.
